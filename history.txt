@@ -45,3 +45,4 @@
 2025-12-09 05:37:53 update database schema
 2025-11-10 12:55:06 reduce complexity
 2025-03-19 05:45:29 improve UX
+2025-05-08 00:15:28 update configs for prod
